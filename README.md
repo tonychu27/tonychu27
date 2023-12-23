@@ -11,7 +11,7 @@
   * Advanced: C, C++, Python
   * Intermediate: R, Lex, YACC
 * Tools
-  * Git, Makefile, Shellscript
+  * Git, Makefile, Shellscript, Linux
 
 
 <!---
