@@ -9,7 +9,7 @@
 ### Skills
 * Programming Language
   * Advanced: C, C++, Python, Object-oriented Programming
-  * Intermediate: R, Lex, YACC
+  * Intermediate: R, Java, Html
 * Tools
   * Git, Makefile, Shellscript, Linux
 
