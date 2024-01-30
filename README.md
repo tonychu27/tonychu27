@@ -24,3 +24,4 @@ You can click the Preview link to take a look at your changes.
 <!---
 <img src="https://github-readme-stats.vercel.app/api?username=tonybear27&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1" />
 --->
+<img src="https://github-readme-stats.vercel.app/api?username=tonybear27&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1" />
