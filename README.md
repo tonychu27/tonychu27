@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I’m @tonybear27
+- 👋 Hi, I’m @tonychu27
 - 👀 I’m interested in Artificial Intelligence🧠, and Operating System💻  
 - 🌱 I’m currently studying Computer Science at National Yang Ming Chiao Tung University🏫
 - 📫 How to reach me tonybear1027@gmail.com / klchu1027@cs.nycu.edu.tw 
