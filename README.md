@@ -18,7 +18,7 @@ tonybear27/tonybear27 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ### Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonybear27&theme=graywhite&count_private=true&langs_count=20&layout=compact&cache_seconds=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonychu27&theme=graywhite&count_private=true&langs_count=20&layout=compact&cache_seconds=1" />
 
 <!---
 <img src="https://github-readme-stats.vercel.app/api?username=tonybear27&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1" />
