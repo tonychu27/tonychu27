@@ -1,16 +1,15 @@
 ## About Me
 - 👋 Hi, I’m @tonychu27
 - 👀 I’m interested in Artificial Intelligence🧠, and Operating System💻  
-- 🌱 I’m currently studying Computer Science at National Yang Ming Chiao Tung University🏫
+- 🌱 I graduated from Department of Computer Science, National Yang Ming Chiao Tung University🏫
 - 📫 How to reach me tonybear1027@gmail.com / klchu1027@cs.nycu.edu.tw 
-- 🇫🇷 By the way, I am interested in learning French 🇫🇷
 
 ### Skills
 * Programming Language
   * Advanced: C, C++, Python, Object-oriented Programming
-  * Intermediate: R, Java, Html
+  * Intermediate: R, Java, Verilog
 * Tools
-  * Git, Makefile, Shellscript, Linux
+  * Git, Makefile, Shellscript, Linux, Vim, Docker
 
 
 <!---
